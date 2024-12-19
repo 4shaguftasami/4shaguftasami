@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @4shaguftasami
-- 👀 I’m interested in all and everything relating to Python
-- 🌱 I’m learning anything and everything in computer science. 
-- 💞️ I’m looking to collaborate on intermediate and advance level projects
+- 👀 I’m a software engineer.
+- 👩🏻‍💻 I am interested in Python, javascript, .NET projects, APIs, and Open-sources. 
+- 📊 I am interested in Data and Tableau visualizations.
+- 🏫 I work in higher-ed tech and I teach CS classes. 
+- 🌱 I’m curious about anything and everything in computer science. 
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: 4shaguftasami@gmail.com
 
 <!---
